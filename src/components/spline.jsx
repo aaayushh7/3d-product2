@@ -25,16 +25,16 @@ export default function App() {
             <div className='w-[25%] p-[50px]'>
                 <h1 className='text-[55px] font-bold'>Device Specification</h1>
                 <ul className='mt-10 list-disc list-inside font-bold text-xl'>
-                    <li><b>Weight:</b>206g</li>
-                    <li><b>Build:</b>glass front,stainless steel frame </li>
-                    <li><b>size:</b>6.1 inches</li>
-                    <li><b>OS:</b>iOS 16, upgradable to iOS 17.3.1</li>
-                    <li><b>Memory:</b>128GB 6GB RAM, 256GB 6GB RAM</li>
-                    <li><b>Camera:</b>Tripple(48MP+12MP+12MP)</li>
-                    <li><b>WLAN:</b>Wi-Fi 802.11 a/b/g/n/ac/6, dual-band</li>
-                    <li><b>Bluetooth:</b>5.3, A2DP, LE</li>
-                    <li><b>Bttery:</b>Li-Ion 3200 mAh, non-removable</li>
-                    <li><b>Performance:</b>AnTuTu: 968412 (v9)</li>
+                    <li><b>Frame Material:</b>Acetate</li>
+                    <li><b>Lens Material:</b> Polarized Glass </li>
+                    <li><b>Polarization:</b> Yes</li>
+                    <li><b>UV Protection:</b> 100% UVA/UVB</li>
+                    <li><b>Case Included:</b> Yes</li>
+                    <li><b>Warranty:</b> 1 year limited warranty</li>
+                    <li>Scratch-resistant coating</li>
+                    <li>adjustable nose pads</li>
+                    <li>lightweight design</li>
+                    
                 </ul>
             </div>
             <div className='w-[50%] h-screen'>
